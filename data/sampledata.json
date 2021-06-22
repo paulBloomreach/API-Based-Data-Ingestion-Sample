@@ -1,0 +1,3202 @@
+[
+  {
+    "op": "add",
+    "path": "/products/4779935",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4779935",
+        "price": 12.99,
+        "sale_Price": 8.18,
+        "title": "AB 140G-ELTT 140G Test Trp",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4779935.jpg",
+        "description": "A-B 140G-ELTT 140G Test Trp Circuit-Breaker Accessory",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4034605",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4034605",
+        "price": 10.31,
+        "sale_Price": 6.49,
+        "title": "CONNELEC UBIZ0220 RC3820 NON UL CB",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4034605.jpg",
+        "description": "Zinsco UBIZ0220 20A 2-Pole 10,000 AIC Circuit Breaker, ETL Listed (RC3820)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/855968",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/855968",
+        "price": 11.37,
+        "sale_Price": 7.16,
+        "title": "AB 140M-C2E-B40 MPCB, Standard",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_855968.jpg",
+        "description": "A-B 140M-C2E-B40 Mtr Prt Circuit Breaker Circuit-Breaker",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/793716",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/793716",
+        "price": 14.05,
+        "sale_Price": 8.85,
+        "title": "B-LINE U224MTBPL 200A MTRSKT&PO",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_793716",
+        "description": "Eaton B-Line U224MTBPL 240 Volt 200 Amp 2-Pole 1-Phase 3-Wire 4-Jaw Meter Main Load Center with Bypass",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4660822",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4660822",
+        "price": 14.72,
+        "sale_Price": 9.27,
+        "title": "CONNELEC UBIF0220N 20A 2P CIRCUIT",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4660822.jpg",
+        "description": "Federal Pacific UBIF0220N 20A 2-Pole 10,000 AIC Circuit Breaker, Type-NC (Thin), ETL Listed",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4278659",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4278659",
+        "price": 12.31,
+        "sale_Price": 7.76,
+        "title": "PS CS20AC1-I Commercial 1Pole",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4278659.jpg",
+        "description": "Pass & Seymour CS20AC1-I Commercial 1Pole Switch, Side Wire, 20Amp 120/277Volt, Ivory",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4651789",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4651789",
+        "price": 12.96,
+        "sale_Price": 8.16,
+        "title": "SQD HOMT2020 SP-20-20A CB",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4651789",
+        "description": "Square-D HOMT2020 Homeline Tandem Miniature Circuit Breaker 20&20 1P , Plug-On",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4891280",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4891280",
+        "price": 8.53,
+        "sale_Price": 5.37,
+        "title": "KLEIN VDV501-828 VDV Commander Test",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4891280.jpg",
+        "description": "Klein VDV501-828 VDV Commander&#8482; Test Kit",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2678155",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2678155",
+        "price": 10.91,
+        "sale_Price": 6.87,
+        "title": "BRDGPRT 251-RT2 3/4 EMT",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2678155.jpg",
+        "description": "Bridgeport 251-RT2 3/4 Raintight Compression Connector, Zinc Die Cast",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4651758",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4651758",
+        "price": 6.54,
+        "sale_Price": 4.12,
+        "title": "SQD HOM120 20A 120/240v 1P Homeline",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4651758.jpg",
+        "description": "Square-D HOM120 Homeline Miniature Circuit Breaker 20A 120/240V 1P , Plug-On",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4650550",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4650550",
+        "price": 12.46,
+        "sale_Price": 7.85,
+        "title": "SQD QOT2020 20A/20A 1P 120/240v",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4650550.jpg",
+        "description": "Square-D QOT2020 Tandem Circuit Breaker 20A/20A 120/240V 1Ph , Plug-On",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4779226",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4779226",
+        "price": 13.58,
+        "sale_Price": 8.55,
+        "title": "AB 1494H-BF3N Heavy Duty Non-Fus",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4779226.jpg",
+        "description": "A-B 1494H-BF3N Heavy Duty Non-Fus Safety Discon Switch",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/600180",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/600180",
+        "price": 7.48,
+        "sale_Price": 4.71,
+        "title": "SQD QOM2100VH 100A 120/240v 1ph 2P",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_600180.jpg",
+        "description": "Square-D QOM2100VH Main Circuit Breaker 100A 120/240V 1Ph 2P , Bolt-On",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3984119",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3984119",
+        "price": 8.59,
+        "sale_Price": 5.41,
+        "title": "SQD HOM220 20A 120/240v 2P Homeline",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3984119.jpg",
+        "description": "Square-D HOM220 Homeline Miniature Circuit Breaker 20A 120/240V 2P , Plug-On",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4651809",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4651809",
+        "price": 11.94,
+        "sale_Price": 7.52,
+        "title": "SQD DU222RB 60A-240V-2P RT SW",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4651809.jpg",
+        "description": "Square-D DU222RB Safety Switch Not Fusible 60A-240V-2P NEMA-3R , Single Throw",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4004728",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4004728",
+        "price": 11.45,
+        "sale_Price": 7.21,
+        "title": "AB 1769-L23-QBFC1B CompactLogix",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4004728.jpg",
+        "description": "A-B 1769-L23-QBFC1B CompactLogix 512KB DI/O AI/O Controller",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4529971",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4529971",
+        "price": 13.77,
+        "sale_Price": 8.67,
+        "title": "AB 1489-M1D010 UL489 1 A Miniature",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4529971.jpg",
+        "description": "A-B 1489-M1D010 UL489 1 A Miniature Circuit Breaker",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4651807",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4651807",
+        "price": 5.18,
+        "sale_Price": 3.26,
+        "title": "SQD DU221RB SWITCH NOT FUSIBLE GD",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4651807.jpg",
+        "description": "Square-D DU221RB Safety Switch Not Fusible 30A-240V-2P NEMA-3R , Single Throw",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4529987",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4529987",
+        "price": 5.41,
+        "sale_Price": 3.41,
+        "title": "AB 1489-M2C005 UL489 0.5 A",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4529987.jpg",
+        "description": "A-B 1489-M2C005 UL489 0.5 A Miniature Circuit Breaker",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4677423",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4677423",
+        "price": 9.76,
+        "sale_Price": 6.15,
+        "title": "PS 2097-TRWRW 20A 125V Self-Test",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4677423.jpg",
+        "description": "Pass & Seymour 2097-TRWRW 20A 125V Self-Test Tamper-Resistant Weather-Resistant GFCI, White",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4382409",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4382409",
+        "price": 8.44,
+        "sale_Price": 5.32,
+        "title": "WATTSTOP LMSW-101-W Digital",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4382409.jpg",
+        "description": "Wattstopper LMSW-101-W Digital Scene Switch, 1-Button w/Infrared Transceiver - White",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4926786",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4926786",
+        "price": 7.54,
+        "sale_Price": 4.75,
+        "title": "AB 194E-AA32E-P22 194E Load switch",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4926786.jpg",
+        "description": "A-B 194E-AA32E-P22 194E Load Switch",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4027197",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4027197",
+        "price": 6.99,
+        "sale_Price": 4.4,
+        "title": "KLEIN NCVT-1 Non-Contact Voltage",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4027197.jpg",
+        "description": "Klein NCVT-1 Non-Contact Voltage Tester",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4058772",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4058772",
+        "price": 11.06,
+        "sale_Price": 6.97,
+        "title": "B-LINE 20252A 100A TEST BLOCK 1 LUG",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4058772.jpg",
+        "description": "Eaton B-Line 20252A 100 Amp 2-Pole Test Block",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/855969",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/855969",
+        "price": 8.18,
+        "sale_Price": 5.15,
+        "title": "AB 140M-C2E-B63 MPCB, Standard",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_855969.jpg",
+        "description": "A-B 140M-C2E-B63 Mtr Prt Circuit Breaker Circuit-Breaker",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4279755",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4279755",
+        "price": 5.29,
+        "sale_Price": 3.33,
+        "title": "MILW 2202-20 Voltage Detector w/LED",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4279755.jpg",
+        "description": "Milwaukee 2202-20 Voltage Detector w/ LED Work Light, 50 to 1000V AC",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4530005",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4530005",
+        "price": 5.66,
+        "sale_Price": 3.57,
+        "title": "AB 1489-M2D060 UL489 6 A Miniature",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4530005.jpg",
+        "description": "A-B 1489-M2D060 UL489 6 A Miniature Circuit Breaker",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4731049",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4731049",
+        "price": 14.64,
+        "sale_Price": 9.22,
+        "title": "PS RCD11W Decora 15a 120v Combo",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4731049.jpg",
+        "description": "Pass & Seymour RCD11W Two Single Pole Switches, 15A 120V, White",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4765928",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4765928",
+        "price": 9.39,
+        "sale_Price": 5.92,
+        "title": "KLEIN CL110KIT Electrical",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4765928.jpg",
+        "description": "Klein CL110KIT Electrical Maintenance and Test Kit",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4429147",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4429147",
+        "price": 7.96,
+        "sale_Price": 5.02,
+        "title": "PS TM874-W NAFTA-Compliant",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4429147.jpg",
+        "description": "Pass & Seymour TM874-W NAFTA-Compliant Decorator Switch, 4Way 15Amp 120/277V, White",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4650512",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4650512",
+        "price": 13.45,
+        "sale_Price": 8.48,
+        "title": "SQD QO120 20A 120/240v 1P Miniature",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4650512.jpg",
+        "description": "Square-D QO120 20amp 120/240v 1Pole Miniature Circuit Breaker, Plug-In",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/71686",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/71686",
+        "price": 5.26,
+        "sale_Price": 3.32,
+        "title": "AB 194E-E40-1753-6N IEC Load",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_71686.jpg",
+        "description": "Allen-Bradley 194E-E40-1753-6N Load Switch",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/413352",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/413352",
+        "price": 5.21,
+        "sale_Price": 3.28,
+        "title": "PS 2601-W Spec Grade Single Pole",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_413352.jpg",
+        "description": "Pass & Seymour 2601-W Single Pole, Back And Side Wire, Decorator Switch, 15 Amps, 120/277 Volts, White.",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4272132",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4272132",
+        "price": 7.76,
+        "sale_Price": 4.89,
+        "title": "AB 140M-C2E-C32 CIRCUIT BREAKER",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4272132.jpg",
+        "description": "A-B 140M-C2E-C32 Mtr Prt Circuit Breaker Circuit-Breaker",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31050",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31050",
+        "price": 9.64,
+        "sale_Price": 6.07,
+        "title": "WIC 12 THHN STRND CU BLK 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31050.jpg",
+        "description": "THHN 12 Stranded Black Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4741820",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4741820",
+        "price": 10.5,
+        "sale_Price": 6.61,
+        "title": "KLEIN VDV002-818 Coax Installation",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4741820.jpg",
+        "description": "Klein VDV002-818 Coax Installation & Test Kit",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4446428",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4446428",
+        "price": 7.82,
+        "sale_Price": 4.93,
+        "title": "IDEAL 33-866 Test Tone Trace Kit",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4446428.jpg",
+        "description": "IDEAL 33-866 Test Tone Trace Kit",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/531641",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/531641",
+        "price": 8.46,
+        "sale_Price": 5.33,
+        "title": "BRDGPRT 921-S 3/4 1-Hole Strap,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_531641.jpg",
+        "description": "Bridgeport 921-S 3/4 1-Hole EMT Straps, Steel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4651755",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4651755",
+        "price": 14.61,
+        "sale_Price": 9.21,
+        "title": "SQD HOM115 15A 120/240v 1P Homeline",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4651755.jpg",
+        "description": "Square-D HOM115 Homeline Minature Circuit Breaker 15A 120/240V 1P , Plug-On",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3190887",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3190887",
+        "price": 14.77,
+        "sale_Price": 9.3,
+        "title": "IDEAL 34-012 FUSE PULLER TEST LITE",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3190887.jpg",
+        "description": "IDEAL 34-012 FUSE Puller & Test Light, Large (9/16-1 dia. Fuses)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2678158",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2678158",
+        "price": 11.66,
+        "sale_Price": 7.35,
+        "title": "BRDGPRT 261-RT 3/4 EMT Compression",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2678158.jpg",
+        "description": "Bridgeport 261-RT 3/4 Raintight Compression Coupling, Zinc Die Cast",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/1993856",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/1993856",
+        "price": 12.19,
+        "sale_Price": 7.68,
+        "title": "B-LINE B22SH-120GLV Channel Deep",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_1993856",
+        "description": "B-Line B22SH-120-GLV Half Slot Deep Channel Galvanized",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4429032",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4429032",
+        "price": 13.84,
+        "sale_Price": 8.72,
+        "title": "PS 660-WG Single Pole Switch,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4429032.jpg",
+        "description": "Pass & Seymour 660-WG Single Pole Switch, Grounded Terminals, 15 Amps, 120 Volts, White",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/13524",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/13524",
+        "price": 11.97,
+        "sale_Price": 7.54,
+        "title": "B-LINE 117TB 100A 7T SAFTY SOCKET",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_13524",
+        "description": "Eaton B-Line 117TB 600 Volt 100 Amp 3-Phase 4-Wire 7-Jaw Test Block Bypass Meter Socket",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/28386",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/28386",
+        "price": 11.98,
+        "sale_Price": 7.54,
+        "title": "STL-CTY 52171-1/2-3/4-E 4 Square",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_28386.jpg",
+        "description": "Steel-City 52171-1/2-3/4-E 4 Steel Square Box, 2-1/8 Deep, 30.3 cu.in. w/ 1/2 & 3/4 Eccentric KOs and Ground Bump",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/19502",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/19502",
+        "price": 10.37,
+        "sale_Price": 6.54,
+        "title": "HW HBL1221I SP 20A 277V IV AC SW",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_19502.jpg",
+        "description": "Hubbell HBL1221-I 20A 120/277V SP Ivory Toggle Switch. Extra Heavy Duty Industrial Series",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4739681",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4739681",
+        "price": 10.09,
+        "sale_Price": 6.36,
+        "title": "PS RCD33LA Decora 15a 125v Combo",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4739681.jpg",
+        "description": "Pass & Seymour RCD33LA Combination (2) Single Pole/3-Way Switch, 15A 120V - Light Almond",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/259050",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/259050",
+        "price": 8.72,
+        "sale_Price": 5.49,
+        "title": "T&B 54720 6-4 Brown Die Copper",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_259050",
+        "description": "Thomas & Betts 54720 Copper C-Tap Connector - 600V - 8-4/8-12",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2912550",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2912550",
+        "price": 12.12,
+        "sale_Price": 7.64,
+        "title": "AB 194E-E16-1753 IEC Load Switch,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2912550.jpg",
+        "description": "Allen-Bradley 194E-E16-1753 Open Load Switch",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4765935",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4765935",
+        "price": 7,
+        "sale_Price": 4.41,
+        "title": "KLEIN RT210 GFCI Receptacle Tester",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4765935.jpg",
+        "description": "Klein RT210 GFCI Receptacle Tester",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/855970",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/855970",
+        "price": 11.13,
+        "sale_Price": 7.01,
+        "title": "AB 140M-C2E-C10 MPCB, Standard",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_855970.jpg",
+        "description": "A-B 140M-C2E-C10 Mtr Prt Circuit Breaker Circuit-Breaker",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/12845",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/12845",
+        "price": 13.65,
+        "sale_Price": 8.6,
+        "title": "BRDGPRT 382-DC 3/4 Insulated",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_12845.jpg",
+        "description": "Bridgeport 382-DC 3/4 Zinc Die Cast Insulated Grounding Bushing",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4473873",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4473873",
+        "price": 7.21,
+        "sale_Price": 4.54,
+        "title": "PS CSB15AC2-W Spec Grade 2Pole",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4473873.jpg",
+        "description": "Pass & Seymour CSB15AC2-W Construction 2Pole Switch, Back & Side Wire, 15Amp 120/277Volt, White",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4331569",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4331569",
+        "price": 9.59,
+        "sale_Price": 6.04,
+        "title": "AB 194R-PY Rotary Door Handle",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4331569.jpg",
+        "description": "A-B 194R-PY 194R 30-60 A Disconnect Switchitch Handle",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31162",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31162",
+        "price": 11.8,
+        "sale_Price": 7.43,
+        "title": "WIC 8 THHN STRND CU BLK 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31162.jpg",
+        "description": "THHN 8 Stranded Black Cable, Copper Conductor (500' Reel)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2769643",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2769643",
+        "price": 10.17,
+        "sale_Price": 6.41,
+        "title": "FM 87-5 INDUSTRIAL TRUE RMS",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2769643.jpg",
+        "description": "Fluke FLUKE-87-5 Industrial Multimeter with Temperature",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4408978",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4408978",
+        "price": 5.78,
+        "sale_Price": 3.64,
+        "title": "BRDGPRT LB-42CG 3/4 LB Rigid",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4408978.jpg",
+        "description": "Bridgeport LB-42CG 3/4 Type-LB Conduit Body w/ Cover & Gasket, Aluminum",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4428819",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4428819",
+        "price": 13.19,
+        "sale_Price": 8.31,
+        "title": "MILW 48-40-4070 5-3/8 Circular Saw",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4428819.jpg",
+        "description": "Milwaukee 48-40-4070 5-3/8 30-Teeth Ferrous Metal Circular Saw Blade",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31169",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31169",
+        "price": 12.93,
+        "sale_Price": 8.15,
+        "title": "WIC 8 THHN STRND CU RED 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31169.jpg",
+        "description": "THHN 8 Stranded Red Cable, Copper Conductor (500' Reel)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4030624",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4030624",
+        "price": 7.4,
+        "sale_Price": 4.66,
+        "title": "ARLTN LPCG757 3/4 .385-.750",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4030624.jpg",
+        "description": "Arlington LPCG757 3/4 Non-Metallic Straight Strain-Relief Cord Connector, .385 to .750 - Gray",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4429144",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4429144",
+        "price": 7.21,
+        "sale_Price": 4.54,
+        "title": "PS TM870-W Decorator Switch, 1Pole,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4429144.jpg",
+        "description": "Pass & Seymour TM870-W Decorator Switch, 1Pole, 15A 120/277V Grounding - White",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4431983",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4431983",
+        "price": 7.25,
+        "sale_Price": 4.57,
+        "title": "PS TM870-GRY Decorator Switch,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4431983.jpg",
+        "description": "Pass & Seymour TM870-GRY Decorator Switch, Single Pole 15Amp 120/277V Grounding, Gray",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/1993837",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/1993837",
+        "price": 5.07,
+        "sale_Price": 3.19,
+        "title": "B-LINE B2002PA-ZN 3/4-In. - Pipe",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_1993837",
+        "description": "B-Line B2002PA-ZN 3/4 Pipe and Conduit Clamp",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4009159",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4009159",
+        "price": 5.94,
+        "sale_Price": 3.74,
+        "title": "HW HBLDS60100RS REP DISCO SWITCH",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4009159.jpg",
+        "description": "Hubbell HBLDS60100RS REP DISCO SWITCH, 60A,",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31166",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31166",
+        "price": 6.48,
+        "sale_Price": 4.08,
+        "title": "WIC 8 THHN STRND CU GRN 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31166.jpg",
+        "description": "THHN 8 Stranded Green Cable, Copper Conductor (500' Reel)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4000175",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4000175",
+        "price": 13.11,
+        "sale_Price": 8.26,
+        "title": "BRDGPRT 471-SLT 3/4 90D Connector,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4000175.jpg",
+        "description": "Bridgeport 471-SLT 3/4 90deg Liquidtight Connector, Steel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2675564",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2675564",
+        "price": 12.55,
+        "sale_Price": 7.9,
+        "title": "AB 800F-X10 22.5mm PB No Latch,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2675564.jpg",
+        "description": "A-B 800F-X10 22mm Contact Block 800F PB",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3822834",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3822834",
+        "price": 13.98,
+        "sale_Price": 8.81,
+        "title": "FM FLUKE 117 ELEC TRUE RMS",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3822834.jpg",
+        "description": "Fluke FLUKE-117 600 VAC/VDC Electrical Multimeter",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31056",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31056",
+        "price": 5.23,
+        "sale_Price": 3.3,
+        "title": "WIC 12 THHN STRND CU GRN 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31056.jpg",
+        "description": "THHN 12 Stranded Green Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31158",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31158",
+        "price": 12.23,
+        "sale_Price": 7.71,
+        "title": "WIC 6 THHN STRND CU GRN 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31158.jpg",
+        "description": "THHN 6 Stranded Green Cable, Copper Conductor (500' Reel)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4409202",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4409202",
+        "price": 8.05,
+        "sale_Price": 5.07,
+        "title": "BRDGPRT LR-42CG 3/4 LR Rigid",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4409202.jpg",
+        "description": "Bridgeport LR-42CG 3/4 Type-LR Conduit Body w/ Cover &amp; Gasket, Aluminum",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2713899",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2713899",
+        "price": 10.58,
+        "sale_Price": 6.67,
+        "title": "AB 1492-EAJ35 End Anchor used w/",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2713899.jpg",
+        "description": "A-B 1492-EAJ35 IEC End Anchor, 8 x 56 x 47mm",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4409064",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4409064",
+        "price": 13.96,
+        "sale_Price": 8.8,
+        "title": "BRDGPRT LL-42CG 3/4 LL Rigid",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4409064.jpg",
+        "description": "Bridgeport LL-42CG 3/4 Type-LL Conduit Body w/ Cover & Gasket, Aluminum",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31070",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31070",
+        "price": 8.19,
+        "sale_Price": 5.16,
+        "title": "WIC 14 THHN STRND CU BLK 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31070.jpg",
+        "description": "THHN 14 Stranded Black Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/329163",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/329163",
+        "price": 12.91,
+        "sale_Price": 8.13,
+        "title": "SQD D222NRB 60A 2P NEMA-3R 240v",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_329163.jpg",
+        "description": "Square-D D222NRB Safety Switch Fusible 60A 2P NEMA-3R 240V , Single Throw",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4902100",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4902100",
+        "price": 13.92,
+        "sale_Price": 8.77,
+        "title": "MILW 2997-22 M18 FUEL 2-Tool Hammer",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4902100.jpg",
+        "description": "Milwaukee 2997-22 M18 FUEL&#8482; 2-Tool Hammer Drill / Impact Driver Combo Kit",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4515497",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4515497",
+        "price": 10.16,
+        "sale_Price": 6.4,
+        "title": "B-LINE B22S-120SS4 Channel 1 5/8-In",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4515497.jpg",
+        "description": "Eaton B-Line B22S-120SS4 120 x 1-5/8 x 1-5/8 Inch 12 Gauge 304 Stainless Steel Channel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31052",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31052",
+        "price": 12.17,
+        "sale_Price": 7.67,
+        "title": "WIC 12 THHN STRND CU BLU 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31052.jpg",
+        "description": "THHN 12 Stranded Blue Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/531610",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/531610",
+        "price": 11.49,
+        "sale_Price": 7.24,
+        "title": "BRDGPRT 920-S 1/2 1-Hole Strap EMT",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_531610.jpg",
+        "description": "Bridgeport 920-S 1/2 1-Hole EMT Straps, Steel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4433039",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4433039",
+        "price": 7.14,
+        "sale_Price": 4.5,
+        "title": "MILW 49-56-5120 1-1/8 HOLE DOZER",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4433039.jpg",
+        "description": "Milwaukee 49-56-5120 1-1/8 HOLE DOZER&#8482; Bi-Metal Hole Saw (Bulk)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/7382",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/7382",
+        "price": 14.24,
+        "sale_Price": 8.97,
+        "title": "AB 199-DR1 Zinc Plated, Chromated",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_7382.jpg",
+        "description": "A-B 199-DR1 IEC 35mm x 7.5mm x 1 m DIN Rail",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4705290",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4705290",
+        "price": 9.96,
+        "sale_Price": 6.27,
+        "title": "UNIRAC 315168D Sm Light Rail 168",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4705290.jpg",
+        "description": "Unirac 315168D SolarMount Light Rail, 168, Dark Bronze Anodized (Black)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31022",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31022",
+        "price": 14.55,
+        "sale_Price": 9.17,
+        "title": "WIC 10 THHN STRND CU BLK 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31022.jpg",
+        "description": "THHN 10 Stranded Black Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/12772",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/12772",
+        "price": 12.36,
+        "sale_Price": 7.79,
+        "title": "BRDGPRT 142 3/4 Sealing Locknut,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_12772.jpg",
+        "description": "Bridgeport 142 3/4 Steel Sealing Locknut",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3958523",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3958523",
+        "price": 10.42,
+        "sale_Price": 6.56,
+        "title": "T&B 461-TB 3/4 BUSHED ELBOW 90D",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3958523.jpg",
+        "description": "Thomas & Betts 461-TB 3/4 Bushed Conduit Elbow, Malleable Iron",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31036",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31036",
+        "price": 10.95,
+        "sale_Price": 6.9,
+        "title": "WIC 10 THHN STRND CU RED 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31036.jpg",
+        "description": "THHN 10 Stranded Red Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/13026",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/13026",
+        "price": 8.53,
+        "sale_Price": 5.38,
+        "title": "BRDGPRT T-42CG 3/4 T Rigid Conduit",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_13026.jpg",
+        "description": "Bridgeport T-42CG 3/4 Type-T Conduit Body w/ Cover &amp; Gasket, Aluminum",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/181556",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/181556",
+        "price": 8.08,
+        "sale_Price": 5.09,
+        "title": "ERITECH 615880 5/8 x 8' Copper-",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_181556.jpg",
+        "description": "Eritech 615880 5/8 x 8ft Copper-Bonded Pointed Ground Rod",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/1831307",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/1831307",
+        "price": 6.27,
+        "sale_Price": 3.95,
+        "title": "AB 700-HLT1Z24 700-HL",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_1831307.jpg",
+        "description": "A-B 700-HLT1Z24 GP Terminal Block Relay",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3934175",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3934175",
+        "price": 5.86,
+        "sale_Price": 3.69,
+        "title": "B-LINE DB5 DURA-BLOK Rooftop",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3934175",
+        "description": "Eaton B-Line DB5 4.8 x 6 x 5 Inch Rubber Rooftop Support Channel Base",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4410515",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4410515",
+        "price": 10.8,
+        "sale_Price": 6.81,
+        "title": "BRDGPRT 152-DC 3/4 Threaded Hub,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4410515.jpg",
+        "description": "Bridgeport 152-DC 3/4 Threaded Hub, Insulated Throat, Zinc Die Cast",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3969301",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3969301",
+        "price": 13.89,
+        "sale_Price": 8.75,
+        "title": "BRDGPRT 250-SRT 1/2 EMT",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3969301.jpg",
+        "description": "Bridgeport 250-SRT 1/2 EMT Raintight / Concrete-tight Compression Connector, Steel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4409322",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4409322",
+        "price": 11.6,
+        "sale_Price": 7.31,
+        "title": "CULLY 59806 3/8-16 x 10' Threaded",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4409322.jpg",
+        "description": "Cully 59806 3/8-16 x 10' Threaded Rod, Zinc",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31059",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31059",
+        "price": 8.65,
+        "sale_Price": 5.45,
+        "title": "WIC 12 THHN STRND CU ORG 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31059.jpg",
+        "description": "THHN 12 Stranded Orange Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/623018",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/623018",
+        "price": 7.85,
+        "sale_Price": 4.95,
+        "title": "GRN 660 Steel Hole Cutter Kit,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_623018.jpg",
+        "description": "Greenlee 660 7pc Steel Hole Cutter Kit, Carbide Tipped, 7/8 to 2, includes Arbor, Hex Key & Case",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3495011",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3495011",
+        "price": 14.32,
+        "sale_Price": 9.02,
+        "title": "BRDGPRT 252-SRT 1 EMT Compression",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3495011.jpg",
+        "description": "Bridgeport 252-SRT 1 EMT Raintight / Concrete-tight Compression Connector, Steel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4409312",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4409312",
+        "price": 9.3,
+        "sale_Price": 5.86,
+        "title": "BRDGPRT C-42CG 3/4 C Rigid Conduit",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4409312.jpg",
+        "description": "Bridgeport C-42CG 3/4 Type-C Conduit Body w/ Cover &amp; Gasket, Aluminum",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4343026",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4343026",
+        "price": 14.87,
+        "sale_Price": 9.37,
+        "title": "BRDGPRT 157-DC 2-1/2 Threaded Hub,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4343026.jpg",
+        "description": "Bridgeport 157-DC 2-1/2 Threaded Hub, Insulated Throat, Zinc Die Cast",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4429074",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4429074",
+        "price": 10.81,
+        "sale_Price": 6.81,
+        "title": "PS L1530-R Turnlok Single",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4429074.jpg",
+        "description": "Pass & Seymour L1530-R Turnlok&#174; Single Receptacle, 4Wire 30Amp 3Phase 250V",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3494998",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3494998",
+        "price": 14.88,
+        "sale_Price": 9.37,
+        "title": "BRDGPRT 263-SRT 1-1/4 EMT",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3494998.jpg",
+        "description": "Bridgeport 263-SRT 1-1/4 EMT Raintight / Concrete-tight Compression Coupling, Steel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4427364",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4427364",
+        "price": 14.56,
+        "sale_Price": 9.17,
+        "title": "B-LINE B2004PAZN 1-1/4-In - Pipe",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4427364",
+        "description": "B-Line B2004PAZN 1-1/4 Pipe and Conduit Clamp",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31065",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31065",
+        "price": 14.03,
+        "sale_Price": 8.84,
+        "title": "WIC 12 THHN STRND CU WHT 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31065.jpg",
+        "description": "THHN 12 Stranded White Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3948745",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3948745",
+        "price": 6.91,
+        "sale_Price": 4.35,
+        "title": "HW S1PFB F-BOX PLASTIC RND. SYSTE",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3948745.jpg",
+        "description": "Hubbell S1PFB 100 In? Plastic Round Floor Box",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4408720",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4408720",
+        "price": 13.48,
+        "sale_Price": 8.49,
+        "title": "BRDGPRT 2110-BN #1 Conduit Hanger",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4408720.jpg",
+        "description": "Bridgeport 2110-BN 3/4 Rigid/EMT Conduit Hanger w/Bolt & Nut, Size 1, Steel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4428005",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4428005",
+        "price": 7.07,
+        "sale_Price": 4.45,
+        "title": "CULLY 96035 Dark Cutting Oil, 1-Gal",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4428005",
+        "description": "Cully 96035 Dark Cutting Oil, 1-Gal",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/7594",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/7594",
+        "price": 11.32,
+        "sale_Price": 7.13,
+        "title": "AB 700-HA32A1 700-HA General",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_7594.jpg",
+        "description": "A-B 700-HA32A1 GP Tube Base Relay",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4538380",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4538380",
+        "price": 12.48,
+        "sale_Price": 7.86,
+        "title": "MILW 48-89-9205 Step Bit #5 1/4 -",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4538380.jpg",
+        "description": "Milwaukee 48-89-9205 #5 1/4 - 1-3/8 by 1/8 Step Drill Bit",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4647677",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4647677",
+        "price": 11.99,
+        "sale_Price": 7.55,
+        "title": "ILSCO G0977A02T Lay-In Direct",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4647677",
+        "description": "ILSCO G0977A02T 4 to 14 AWG Lug Direct Burial Tin Plated Bulk Lay-In Ground Bushing Lug for GBL-4DBT",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/12757",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/12757",
+        "price": 5.08,
+        "sale_Price": 3.2,
+        "title": "BRDGPRT 82-DC 3/4 Rigid Pull",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_12757.jpg",
+        "description": "Bridgeport 82-DC 3/4 Rigid Pulling Elbow, Threaded, Die Cast",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/12938",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/12938",
+        "price": 13.17,
+        "sale_Price": 8.29,
+        "title": "BRDGPRT 1026 3/4 Service Entrance",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_12938.jpg",
+        "description": "Bridgeport 1026 3/4 Type-LB Service Entrance Conduit Body, Aluminum",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3923166",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3923166",
+        "price": 14.24,
+        "sale_Price": 8.97,
+        "title": "B-LINE B22S-120-GLV CHANNEL",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3923166",
+        "description": "Eaton B-Line B22SGALV10 1-5/8 x 1-5/8 Inch 12 Gauge 10 Foot Channel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4492040",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4492040",
+        "price": 14.17,
+        "sale_Price": 8.93,
+        "title": "B-LINE B2003PAZN 1-In. - Pipe",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4492040",
+        "description": "B-Line B2003PAZN 1 Pipe and Conduit Clamp",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4427399",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4427399",
+        "price": 13.73,
+        "sale_Price": 8.65,
+        "title": "BRDGPRT 231-DC2 3/4 EMT Set Screw",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4427399.jpg",
+        "description": "Bridgeport 231-DC2 3/4 EMT Set Screw Connector, Zinc Die Cast",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4746671",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4746671",
+        "price": 14.84,
+        "sale_Price": 9.35,
+        "title": "SQD HOM612L100RB LOAD CENTER HOM",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4746671.jpg",
+        "description": "Square-D HOM612L100RB Homeline Load Center, Main Lug, 100A 120/240V 1Ph 6SP, Outdoor",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/12917",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/12917",
+        "price": 10.18,
+        "sale_Price": 6.41,
+        "title": "BRDGPRT 650-DC2 3/8 Oval Cable",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_12917.jpg",
+        "description": "Bridgeport 650-DC2 1/2 Two-Screw Strap-Type NM Cable Connector, Oval Cable, Zinc Die Cast",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/13022",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/13022",
+        "price": 7.35,
+        "sale_Price": 4.63,
+        "title": "BRDGPRT LB-44CG 1-1/4 LB Rigid",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_13022.jpg",
+        "description": "Bridgeport LB-44CG 1-1/4 Type-LB Conduit Body w/ Cover &amp; Gasket, Aluminum",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2675559",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2675559",
+        "price": 8.59,
+        "sale_Price": 5.41,
+        "title": "AB 800F-X01 22.5mm PB No Latch,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2675559.jpg",
+        "description": "Allen-Bradley 800F-X01 22.5 mm No Latch Screw Contact Block 1 N.C. Push Button",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4442762",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4442762",
+        "price": 5.13,
+        "sale_Price": 3.23,
+        "title": "IDEAL 30-1262J #62 Weatherproof",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4442762.jpg",
+        "description": "Ideal 30-1262J #62 Weatherproof Wire Connector (100/Jar)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4427366",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4427366",
+        "price": 8.34,
+        "sale_Price": 5.26,
+        "title": "B-LINE B2006PAZN 2-In - Pipe And",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4427366",
+        "description": "B-Line B2006PAZN 2-In Pipe and Conduit Clamp",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4240237",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4240237",
+        "price": 11.21,
+        "sale_Price": 7.06,
+        "title": "AB 1606-XLE240E-3 3 PHASE INPUT",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4240237.jpg",
+        "description": "A-B 1606-XLE240E-3 480VAC Input 24VDC Out 10A Power Supply",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/1993831",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/1993831",
+        "price": 9.27,
+        "sale_Price": 5.84,
+        "title": "B-LINE B2009PAZN Channel Pipe Clamp",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_1993831",
+        "description": "Eaton B-Line B2009PAZN 3/4 Inch Pipe and Conduit Clamp",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31082",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31082",
+        "price": 9.06,
+        "sale_Price": 5.71,
+        "title": "WIC 14 THHN STRND CU RED 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31082.jpg",
+        "description": "THHN 14 Stranded Red Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4669263",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4669263",
+        "price": 9.55,
+        "sale_Price": 6.02,
+        "title": "AB 1492-JD3FB24 Feed-Through Hinged",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4669263.jpg",
+        "description": "DOUBLE LEVEL FUSE LED TERMINAL BLOCK",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/18636",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/18636",
+        "price": 14.47,
+        "sale_Price": 9.12,
+        "title": "HW SHC1023CR 1/2 .375-.50 CONN",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_18636.jpg",
+        "description": "Hubbell / Kellems SHC-1023-CR 1/2 x .38-.50 Straight Male Cord Connector - Nylon",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31028",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31028",
+        "price": 8.14,
+        "sale_Price": 5.13,
+        "title": "WIC 10 THHN STRND CU GRN 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31028.jpg",
+        "description": "THHN 10 Stranded Green Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4434997",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4434997",
+        "price": 14.27,
+        "sale_Price": 8.99,
+        "title": "PS 5262-W Hard Use Spec Grade",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4434997.jpg",
+        "description": "Pass & Seymour 5262-W Hard Use Spec Grade Duplex Receptacle Back & Side Wire 15Amp 125Volt, White",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4058304",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4058304",
+        "price": 7.76,
+        "sale_Price": 4.89,
+        "title": "BRDGPRT 922-S 1 1-Hole Strap, EMT,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4058304.jpg",
+        "description": "Bridgeport 922-S 1 1-Hole EMT Straps, Steel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/64315",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/64315",
+        "price": 8.17,
+        "sale_Price": 5.15,
+        "title": "AB 1492-FB1C30 1492-FB Fuse Holder",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_64315.jpg",
+        "description": "A-B 1492-FB1C30 1 Pole Fuse Holder",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/607501",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/607501",
+        "price": 14.55,
+        "sale_Price": 9.16,
+        "title": "ILSCO AU-0 ALCU 2COND LUG",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_607501.jpg",
+        "description": "Ilsco AU-0 UL/CSA Listed 1/0-14 AWG 17/64 Inch Mounting Hole Aluminum Dual Rated Mechanical Conductor",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4410566",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4410566",
+        "price": 14.66,
+        "sale_Price": 9.24,
+        "title": "CULLY 95002 3/4 Roof Flashing,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4410566.jpg",
+        "description": "Cully 95002 3/4 Standard Roof Flashing",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3968683",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3968683",
+        "price": 14.13,
+        "sale_Price": 8.9,
+        "title": "BRDGPRT 520-DC2 1/2 FMC Screw-In",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3968683.jpg",
+        "description": "Bridgeport 520-DC2 1/2 Flexible Metal Conduit Screw-In Connector, Zinc Die Cast",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4047861",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4047861",
+        "price": 11.42,
+        "sale_Price": 7.2,
+        "title": "BRDGPRT SR-100 1 Sealing Ring,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4047861.jpg",
+        "description": "Bridgeport SR-100 1 Sealing Ring, Steel w/PVC Gasket",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2605947",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2605947",
+        "price": 10.17,
+        "sale_Price": 6.41,
+        "title": "AB 1492-CJK6-5 Center Jumper, 6 mm",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2605947.jpg",
+        "description": "A-B 1492-CJK6-5 IEC Center Jumper, 5 PL 6mm, Plug-In",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/29322",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/29322",
+        "price": 8.56,
+        "sale_Price": 5.39,
+        "title": "T&B 5232 1/2 STR LT FLX CONN",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_29322.jpg",
+        "description": "Thomas & Betts 5232 1/2 Straight Liquidtight Connector, Non-Insulated Steel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4033756",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4033756",
+        "price": 7.57,
+        "sale_Price": 4.77,
+        "title": "ARLTN LPCG507 1/2 .385-.600",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4033756.jpg",
+        "description": "Arlington LPCG507 1/2 Non-Metallic Straight Strain-Relief Cord Connector, .385 to .600 - Gray",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2675557",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2675557",
+        "price": 9.51,
+        "sale_Price": 5.99,
+        "title": "AB 800F-ALP Plastic Latch",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2675557.jpg",
+        "description": "Allen-Bradley 800F-ALP 10-Piece Metal Meeting Latch",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4520026",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4520026",
+        "price": 11.44,
+        "sale_Price": 7.21,
+        "title": "AB 1489-M1C150 UL489 15 A Miniature",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4520026.jpg",
+        "description": "A-B 1489-M1C150 UL489 15 A Miniature Circuit Breaker",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/8194",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/8194",
+        "price": 13.22,
+        "sale_Price": 8.33,
+        "title": "AB 800T-H2A 30.5mm Type 4/13 2 Pos",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_8194.jpg",
+        "description": "A-B 800T-H2A 30mm Selector Switch 800T PB",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4494004",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4494004",
+        "price": 6.07,
+        "sale_Price": 3.83,
+        "title": "MILW 2361-20 M18 Flood Light",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4494004.jpg",
+        "description": "Milwaukee 2361-20 M18&#8482; LED Flood Light",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4500987",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4500987",
+        "price": 11.55,
+        "sale_Price": 7.28,
+        "title": "CULLY 95154 1/2 - 1 Bronze Ground",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4500987",
+        "description": "Minerallac 95154 1/2 to 1 Inch Bronze Direct Burial Ground Clamp",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/1870675",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/1870675",
+        "price": 9.82,
+        "sale_Price": 6.19,
+        "title": "BURNDY ES2R2R 2-2 ALCU SEC SLEEVE",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_1870675.jpg",
+        "description": "Burndy ES2R2R Service Entrance Sleeve - Copper, Aluminum, ACSR - 2-2 ACSR",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31675",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31675",
+        "price": 14.28,
+        "sale_Price": 9,
+        "title": "WMOLD 5781 1/2 MALE BOX CONNECTOR",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31675.jpg",
+        "description": "Wiremold 5781 1/2 Inch Galvanized Steel 1-Channel Raceway Box Connector",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31067",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31067",
+        "price": 12.11,
+        "sale_Price": 7.63,
+        "title": "WIC 12 THHN STRND CU YEL 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31067.jpg",
+        "description": "THHN 12 Stranded Yellow Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4431871",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4431871",
+        "price": 13.49,
+        "sale_Price": 8.5,
+        "title": "PS CS6365 Plug California Standard",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4431871.jpg",
+        "description": "Pass & Seymour CS6365 Turnlok&#174; Plug, California Standard Style, 50Amp 125/250V",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2713905",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2713905",
+        "price": 11.12,
+        "sale_Price": 7,
+        "title": "AB 1492-EBJ3 End Barrier Gray Pkg.",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2713905.jpg",
+        "description": "A-B 1492-EBJ3 IEC End Barrier, 1.5 x 33.35 x 60mm",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/12846",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/12846",
+        "price": 11.13,
+        "sale_Price": 7.01,
+        "title": "BRDGPRT 383-DC 1 Insulated",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_12846.jpg",
+        "description": "Bridgeport 383-DC 1 Zinc Die Cast Insulated Grounding Bushing",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/65155",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/65155",
+        "price": 8.19,
+        "sale_Price": 5.16,
+        "title": "AB 1492-SJM5-10 Side Jumper, 5mm",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_65155.jpg",
+        "description": "A-B 1492-SJM5-10 IEC Term Block 10 Pole Side Jumper",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31054",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31054",
+        "price": 10.36,
+        "sale_Price": 6.52,
+        "title": "WIC 12 THHN STRND CU BRN 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31054.jpg",
+        "description": "THHN 12 Stranded Brown Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/28413",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/28413",
+        "price": 12.28,
+        "sale_Price": 7.74,
+        "title": "STL-CTY 820-D BOX SUPPORT",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_28413",
+        "description": "Thomas & Betts 820-D Steel Box Support",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/72106",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/72106",
+        "price": 10.5,
+        "sale_Price": 6.62,
+        "title": "AB 194L-G3393 Met. Shaft",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_72106.jpg",
+        "description": "A-B 194L-G3393 194L Padlocking Metal Shaft Extension",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2917992",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2917992",
+        "price": 10.84,
+        "sale_Price": 6.83,
+        "title": "AB 1492-CJK5-10 Center Jumper, 5 mm",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2917992.jpg",
+        "description": "A-B 1492-CJK5-10 IEC Center Jumper, 10 PL 5mm, Plug-In",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4715735",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4715735",
+        "price": 10.71,
+        "sale_Price": 6.75,
+        "title": "COLTG LT560WH6930 5/6 RETROFIT",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4715735.jpg",
+        "description": "Halo LT560WH6930 5/6 Retrofit LED Baffle Trim, 90CRI 3K",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/20278",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/20278",
+        "price": 9.63,
+        "sale_Price": 6.07,
+        "title": "IDEAL 30-641 Tan Twister (341) Wire",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_20278.jpg",
+        "description": "Ideal 30-641 Tan Twister&#174; Wire Connector (341) - Bag of 500. #22 to #8 AWG / 600v",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3081485",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3081485",
+        "price": 10.29,
+        "sale_Price": 6.48,
+        "title": "S-STRUT 702-2-SS 2 STAINLESS STEEL",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3081485",
+        "description": "Superstrut 702-2-SS 2 Stainless Steel Pipe Strap. For use with Rigid/IMC",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31159",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31159",
+        "price": 9.23,
+        "sale_Price": 5.82,
+        "title": "WIC 6 THHN STRND CU RED 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31159.jpg",
+        "description": "THHN 6 Stranded Red Cable, Copper Conductor (500' Reel)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4061009",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4061009",
+        "price": 11.92,
+        "sale_Price": 7.51,
+        "title": "BRDGPRT 801-DC2 3/8 ANGLE CONN.",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4061009.jpg",
+        "description": "Bridgeport 801-DC2 3/8 90deg AC/MC/FMC Connector, Zinc Die Cast",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4409717",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4409717",
+        "price": 10.91,
+        "sale_Price": 6.88,
+        "title": "BRDGPRT 241 3/4 EMT Set Screw",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4409717.jpg",
+        "description": "Bridgeport 241 3/4 EMT Set Screw Coupling, Steel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/18508",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/18508",
+        "price": 12.96,
+        "sale_Price": 8.17,
+        "title": "HW 02201017 Standard Duty Support",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_18508.jpg",
+        "description": "Hubbell / Kellems 022-01-017 Standard Duty Support Grip, Single Eye, Closed Mesh - 1.00-1.24",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31149",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31149",
+        "price": 8.5,
+        "sale_Price": 5.36,
+        "title": "WIC 4 THHN STRND CU BLK 5000 CDC",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31149.jpg",
+        "description": "THHN 4 Stranded Black Cable, Copper Conductor (Cut to Length)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4410525",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4410525",
+        "price": 8.29,
+        "sale_Price": 5.22,
+        "title": "CULLY 40135J 3/8-16 Hex Nut, Zinc",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4410525.jpg",
+        "description": "Cully 40135J 3/8-16 Hex Nut - Zinc Plated (100/Jar)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31030",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31030",
+        "price": 8.23,
+        "sale_Price": 5.18,
+        "title": "WIC 10 THHN STRND CU GRY 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31030.jpg",
+        "description": "THHN 10 Stranded Grey Cable, Copper Conductor (500' Spool)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/973164",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/973164",
+        "price": 12.5,
+        "sale_Price": 7.88,
+        "title": "INT-MAT WP1220C 2-Gang While-In-Use",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_973164.jpg",
+        "description": "Intermatic WP1220C 2-Gang Receptacle In-Use Cover, 2-1/4 Deep - Clear",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2537559",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2537559",
+        "price": 7.68,
+        "sale_Price": 4.84,
+        "title": "ILSCO PBTS-2-4 2PRT INS TAP CONN",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2537559.jpg",
+        "description": "Ilsco PBTS-2-4 2 Port #4 - #14AWG Insulated Tap",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4651772",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4651772",
+        "price": 8.54,
+        "sale_Price": 5.38,
+        "title": "SQD HOM230 30A 120/240v 2P Homeline",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4651772.jpg",
+        "description": "Square-D HOM230 Homeline Miniature Circuit Breaker 30A 120/240v 2P , Plug-On",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4427889",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4427889",
+        "price": 8.11,
+        "sale_Price": 5.11,
+        "title": "CULLY 57256 5/16 X 3-1/2 Hex Head",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4427889",
+        "description": "Minerallac 57256 5/16 x 3-1/2 Inch Zinc Plated Hex Head Lag Screw",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/13023",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/13023",
+        "price": 12.64,
+        "sale_Price": 7.96,
+        "title": "BRDGPRT LB-45CG 1-1/2 LB Rigid",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_13023.jpg",
+        "description": "Bridgeport LB-45CG 1-1/2 Type-LB Conduit Body w/ Cover &amp; Gasket, Aluminum",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4522618",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4522618",
+        "price": 7.63,
+        "sale_Price": 4.81,
+        "title": "AB 700-HN264 4 Pole Relay Socket",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4522618.jpg",
+        "description": "A-B 700-HN264 14 Blade CoilContt Seperation Socket",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3964388",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3964388",
+        "price": 8.67,
+        "sale_Price": 5.46,
+        "title": "T&B 54725 Compression Green C-Tap",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3964388",
+        "description": "Thomas & Betts 54725 Copper C-Tap Connector - 600V - 5-3/6-12",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2702181",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2702181",
+        "price": 11.49,
+        "sale_Price": 7.24,
+        "title": "AB 22-HIM-C2S PowerFlex Component",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2702181.jpg",
+        "description": "A-B 22-HIM-C2S PowerFlex IP66 UL-NEMA Type 4X-12 HIM",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/447120",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/447120",
+        "price": 7.98,
+        "sale_Price": 5.03,
+        "title": "PS CS6364 Connector California",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_447120.jpg",
+        "description": "Pass & Seymour CS6364 Connector California Standard Style 50Amp 125/250Volt Turnlok",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/31155",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/31155",
+        "price": 6.13,
+        "sale_Price": 3.86,
+        "title": "WIC 6 THHN STRND CU BLK 500 Reel",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_31155.jpg",
+        "description": "THHN 6 Stranded Black Cable, Copper Conductor (500' Reel)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4015097",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4015097",
+        "price": 8.49,
+        "sale_Price": 5.35,
+        "title": "BRDGPRT 432-SLT 1 Straight",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4015097.jpg",
+        "description": "Bridgeport 432-SLT 1 Liquidtight Straight Connector, Steel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/220965",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/220965",
+        "price": 7.34,
+        "sale_Price": 4.62,
+        "title": "CADDY 512HDEEP T-BAR BOX HANGER",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_220965.jpg",
+        "description": "Erico 512HDEEP Pre-Galvanized Steel Heavy Duty T-Grid Box Hanger",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4520010",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4520010",
+        "price": 14.5,
+        "sale_Price": 9.14,
+        "title": "AB 1489-M1C050 UL489 5 A Miniature",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4520010.jpg",
+        "description": "A-B 1489-M1C050 UL489 5 A Miniature Circuit Breaker",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/470787",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/470787",
+        "price": 12.4,
+        "sale_Price": 7.81,
+        "title": "AB 889D-F4AC-10 Cordset: DC Micro",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_470787.jpg",
+        "description": "A-B 889D-F4AC-10 889 DC Micro Cable",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4680646",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4680646",
+        "price": 7.22,
+        "sale_Price": 4.55,
+        "title": "PS 2097-W 20A 125V Self-Test GFCI,",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4680646.jpg",
+        "description": "Pass & Seymour 2097-W 20A 125V Self-Test GFCI, White",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/18634",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/18634",
+        "price": 7.76,
+        "sale_Price": 4.89,
+        "title": "HW SHC1022CR 1/2 .25-.375 CONN",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_18634.jpg",
+        "description": "Hubbell / Kellems SHC-1022-CR 1/2 x .25-.38 Straight Male Cord Connector - Nylon",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4003773",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4003773",
+        "price": 5.36,
+        "sale_Price": 3.38,
+        "title": "B-LINE B22-120GLV Channel Deep",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4003773",
+        "description": "Eaton B-Line B22GALV10 1-5/8 x 1-5/8 Inch 12 Gauge 10 Foot Galvanized Channel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/18647",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/18647",
+        "price": 7.38,
+        "sale_Price": 4.65,
+        "title": "HW SHC1036CR 3/4 .50-.625 CONN",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_18647.jpg",
+        "description": "Hubbell / Kellems SHC-1036-CR 3/4 x .50-.63 Straight Male Cord Connector - Nylon",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4811404",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4811404",
+        "price": 11.84,
+        "sale_Price": 7.46,
+        "title": "KLEIN K12055 Heavy Duty Forged Wire",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4811404.jpg",
+        "description": "Klein K12055 Klein-Kurve&#174; Heavy-Duty Wire Stripper, 10-20 AWG",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4429959",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4429959",
+        "price": 6.68,
+        "sale_Price": 4.21,
+        "title": "BRDGPRT 231 3/4 EMT Set Screw",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4429959.jpg",
+        "description": "Bridgeport 231 3/4 EMT Set Screw Connector, Steel - Non-Insulated",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4651780",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4651780",
+        "price": 7.71,
+        "sale_Price": 4.86,
+        "title": "SQD HOM260 60A 120/240v 2P Homeline",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4651780.jpg",
+        "description": "Square-D HOM260 Homeline Miniature Circuit Breaker 60A 120/240V 2P , Plug-On",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/8208",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/8208",
+        "price": 11.07,
+        "sale_Price": 6.97,
+        "title": "AB 800T-J2A 30.5mm Type 4/13 3 Pos.",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_8208.jpg",
+        "description": "A-B 800T-J2A 30mm Selector Switch 800T PB",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4286667",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4286667",
+        "price": 12.44,
+        "sale_Price": 7.83,
+        "title": "AB 800T-QH2R 30 mm Type 4/13 Pilot",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4286667.jpg",
+        "description": "A-B 800T-QH2R 30mm Pilot Light 800T PB",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4651840",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4651840",
+        "price": 5.35,
+        "sale_Price": 3.37,
+        "title": "SQD HOM816L125PRB HOMELINE N3R 125A",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4651840.jpg",
+        "description": "Square-D HOM816L125PRB Homeline Load Center , Main Lug , 125A 120/240V 1Ph 8/16CIR , Outdoor",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4410501",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4410501",
+        "price": 12.08,
+        "sale_Price": 7.61,
+        "title": "CULLY 40125J 1/4-20 Hex Nut, Zinc",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4410501.jpg",
+        "description": "Cully 40125J 1/4-20 Hex Nut - Zinc Plated (100/Jar)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/563198",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/563198",
+        "price": 14.1,
+        "sale_Price": 8.88,
+        "title": "BRDGPRT 521-DC2 3/4 FMC Screw-In",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_563198.jpg",
+        "description": "Bridgeport 521-DC2 3/4 Flexible Metal Conduit Screw-In Connector, Zinc Die Cast",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/3968441",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/3968441",
+        "price": 12.62,
+        "sale_Price": 7.95,
+        "title": "BRDGPRT 431-SLT 3/4 Straight",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_3968441.jpg",
+        "description": "Bridgeport 431-SLT 3/4 Liquidtight Straight Connector, Steel",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4263254",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4263254",
+        "price": 11.28,
+        "sale_Price": 7.11,
+        "title": "AB 2080-IF4 MICRO800 4 POINT ANALOG",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4263254.jpg",
+        "description": "A-B 2080-IF4 MICRO800 4 POINT ANALOG INPUT PLUG-IN",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4651774",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4651774",
+        "price": 5.51,
+        "sale_Price": 3.47,
+        "title": "SQD HOM240 40A 120/240v 2P Homeline",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4651774.jpg",
+        "description": "Square-D HOM240 Homeline Circuit Breaker 40A 120/240V 2P , Plug-On",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/12848",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/12848",
+        "price": 8.2,
+        "sale_Price": 5.17,
+        "title": "BRDGPRT 385-DC 1-1/2 Insulated",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_12848.jpg",
+        "description": "Bridgeport 385-DC 1-1/2 Zinc Die Cast Insulated Grounding Bushing",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/29483",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/29483",
+        "price": 12.28,
+        "sale_Price": 7.74,
+        "title": "STL-CTY 68-P PVC FLOOR BOX W/CAP",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_29483",
+        "description": "Thomas & Betts 68P 100 Cubic Inch Non-Metallic Flush Service Floor Box",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/20255",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/20255",
+        "price": 7.7,
+        "sale_Price": 4.85,
+        "title": "IDEAL 30-273 Orange Wire-Nut (73B),",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_20255.jpg",
+        "description": "Ideal 30-273 Orange Wire-Nut&#174; (73B), #22 to #14 AWG / 600v (500/Bag)",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2708499",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2708499",
+        "price": 5.35,
+        "sale_Price": 3.37,
+        "title": "BURNDY ES2W2W CONNECTOR HOUSE",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2708499.jpg",
+        "description": "Burndy ES2W2W Service Entrance Sleeve - Copper, Aluminum, ACSR - 4 ACSR-4 AL/CU",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4492916",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4492916",
+        "price": 11.22,
+        "sale_Price": 7.07,
+        "title": "BRADY M-187-075-342 Mseries B342",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4492916.jpg",
+        "description": "Brady M-187-075-342 80-Pack White 0.75 x 0.335 Inch Label Cartridge",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/29484",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/29484",
+        "price": 10.71,
+        "sale_Price": 6.74,
+        "title": "STL-CTY 68PAR PVC ADJ. RING ADAPTER",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_29484",
+        "description": "Thomas & Betts 68-PAR Flush Service Floor Box Non-Metallic Adjusting Ring",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/4385982",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/4385982",
+        "price": 10.5,
+        "sale_Price": 6.62,
+        "title": "B-LINE B2017PAZN Channel Pipe Clamp",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_4385982",
+        "description": "Eaton B-Line B2017PAZN 4 Inch Pre-assembled 11 Gauge Zinc Plated Pipe and Conduit Clamp",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/2675556",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/2675556",
+        "price": 7.02,
+        "sale_Price": 4.42,
+        "title": "AB 800FP-MT44 800F Non-Illuminated",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_2675556.jpg",
+        "description": "A-B 800FP-MT44 22mm Twist To Release E-Stop 800F PB",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/607625",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/607625",
+        "price": 9.49,
+        "sale_Price": 5.98,
+        "title": "ILSCO AU-250 ALCU 2COND LUG",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_607625.jpg",
+        "description": "Ilsco AU-250 UL/CSA Listed 250 kcmil 6 AWG 25/64 Inch Mounting Hole Aluminum Dual Rated Mechanical Conductor",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/products/241809",
+    "value": {
+      "attributes": {
+        "url": "https://pacificsupply.bloomreach.com/products/241809",
+        "price": 12.42,
+        "sale_Price": 7.83,
+        "title": "INT-MAT WP1000C 1-Gang While-In-Use",
+        "thumb_image": "https://pacific-demo-data.bloomreach.cloud/supply/images/thumbimage_pid_241809.jpg",
+        "description": "Intermatic WP1000C 1Gang Vertical Weatherproof In-Use Cover, 2-1/4 Deep - Clear",
+        "tags": ["", ""],
+        "language": "en"
+      }
+    }
+  }
+]

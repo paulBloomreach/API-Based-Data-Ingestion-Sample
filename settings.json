@@ -1,0 +1,6 @@
+{
+    "accountId" : "***Account ID Goes here***",
+    "bearerAPIKey" : "***Bearer APi Key goes here***",
+    "indexFile" : "./data/sampledata.json",
+    "mode":"PUT"
+}

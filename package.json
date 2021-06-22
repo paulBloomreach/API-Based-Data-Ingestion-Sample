@@ -1,0 +1,14 @@
+{
+  "name": "dataconnect_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paul.edwards@bloomrech.com",
+  "license": "ISC",
+  "dependencies": {
+    "promise": "^8.1.0"
+  }
+}
