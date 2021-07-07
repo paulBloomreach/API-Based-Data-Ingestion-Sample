@@ -19,7 +19,7 @@ submitPatchDataRequest = (patchData, accountId, catalogName, bearerAPIKey, mode)
   return new promise(function (resolve, reject) {
     try {
       let options = {
-        hostname: "api-staging.connect.bloomreach.com",
+        hostname: "api.connect.bloomreach.com",
         method: mode,
         path:
           "/dataconnect/api/v1/accounts/" +
@@ -73,7 +73,7 @@ requestIndexUpdate = (accountId, catalogName, bearerAPIKey) => {
   return new promise(function (resolve, reject) {
     try {
       let options = {
-        hostname: "api-staging.connect.bloomreach.com",
+        hostname: "api.connect.bloomreach.com",
         method: "POST",
         path:
           "/dataconnect/api/v1/accounts/" +
@@ -116,7 +116,7 @@ requestIndexUpdate = (accountId, catalogName, bearerAPIKey) => {
 getJobStatus = (jobId, bearerAPIKey) => {
   return new promise(function (resolve, reject) {
     let options = {
-      hostname: "api-staging.connect.bloomreach.com",
+      hostname: "api.connect.bloomreach.com",
       method: "GET",
       path: "/dataconnect/api/v1/jobs/" + jobId,
       port: 443,

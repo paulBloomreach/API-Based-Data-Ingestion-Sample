@@ -4,7 +4,7 @@ const dataConnect = require('./dataConnectModule'),
 dataConnect.loadData(
     settings.indexFile, 
     settings.accountId, 
-    (settings.bearerAPIKey).split('-staging')[0],
+    (settings.bearerAPIKey).split('-production')[0],
     settings.bearerAPIKey,
     settings.mode)
 .then(()=>{
